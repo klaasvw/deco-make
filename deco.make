@@ -36,11 +36,3 @@ projects[deco][type] = deco
 projects[deco][download][type] = git
 projects[deco][download][url] = http://git.drupal.org/project/deco.git
 projects[deco][download][branch] = 7.x-1.x
-
-; Deco install profile
-; --------------------
-
-projects[deco_profile][type] = profile
-projects[deco][download][type] = git
-projects[deco][download][url] = http://git.drupal.org/project/deco.git
-projects[deco][download][branch] = master
