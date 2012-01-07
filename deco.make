@@ -64,9 +64,6 @@ projects[token][type] = module
 projects[views][subdir] = contrib
 projects[views][type] = module
 
-projects[views_ui][subdir] = contrib
-projects[views_ui][type] = module
-
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][type] = module
 
