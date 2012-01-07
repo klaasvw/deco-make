@@ -79,7 +79,7 @@ libraries[ckeditor][directory_name] = ckeditor
 ; Deco Git clone
 ; --------------
 
-projects[deco][type] = deco
+projects[deco][type] = theme
 projects[deco][download][type] = git
 projects[deco][download][url] = http://git.drupal.org/project/deco.git
 projects[deco][download][branch] = 7.x-1.x
