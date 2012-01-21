@@ -70,6 +70,9 @@ projects[views_ui][type] = module
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][type] = module
 
+projects[features][subdir] = contrib
+projects[features][type] = module
+
 
 ; Libraries
 ; ---------
