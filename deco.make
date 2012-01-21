@@ -64,9 +64,6 @@ projects[token][type] = module
 projects[views][subdir] = contrib
 projects[views][type] = module
 
-projects[views_ui][subdir] = contrib
-projects[views_ui][type] = module
-
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][type] = module
 
@@ -85,7 +82,7 @@ libraries[ckeditor][directory_name] = ckeditor
 ; Deco Git clone
 ; --------------
 
-projects[deco][type] = deco
+projects[deco][type] = theme
 projects[deco][download][type] = git
 projects[deco][download][url] = http://git.drupal.org/project/deco.git
 projects[deco][download][branch] = 7.x-1.x
